@@ -1,2 +1,2 @@
-# probinet_wegoods_1.0_app
-probinet, wegoods, 1.0, app
+# WeGoods App created by probinet.
+part1
